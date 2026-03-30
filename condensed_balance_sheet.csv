@@ -1,0 +1,12 @@
+section,line_item,as_of_2023_06_30,as_of_2023_12_31,change_jun_to_dec
+Assets,Accounts Receivable,5523.55,3612.00,-1911.55
+Assets,Operating Cash (Key 6234),33385.79,21148.72,-12237.07
+Assets,Reserve Cash (0952),0.00,400.00,400.00
+Assets,Total Assets,38909.34,25160.72,-13748.62
+Liabilities,Prepaid Accounts Receivable,6389.45,5087.45,-1302.00
+Liabilities,Accounts Payable - Net Total,1050.00,0.00,-1050.00
+Liabilities,Total Liabilities,7439.45,5087.45,-2352.00
+Equity,Retained Earnings,20887.69,20542.69,-345.00
+Equity,Net Income (Loss),10582.20,-469.42,-11051.62
+Equity,Total Net Worth,31469.89,20073.27,-11396.62
+Crosscheck,Total Net Worth + Liabilities,38909.34,25160.72,-13748.62
